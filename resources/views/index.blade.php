@@ -413,6 +413,10 @@
                                 <div class="col-12">
                                     <textarea class="form-control bg-light border-0" rows="3" placeholder="Message" name="message" required></textarea>
                                 </div>
+
+                                 <!-- Cloudflare Turnstile Widget -->
+                                <div class="cf-turnstile" data-sitekey="{{ env('TURNSTILE_SITE_KEY') }}"></div>
+                                
                                 <div class="col-12">
                                     <button class="btn btn-dark w-100 py-3" type="submit">Submit</button>
                                 </div>
@@ -659,6 +663,10 @@
 
 
     <!-- JavaScript Libraries -->
+
+    <!-- Load Turnstile JavaScript -->
+    <script src="https://challenges.cloudflare.com/turnstile/v0/api.js" async defer></script>
+
     <script src="https://code.jquery.com/jquery-3.4.1.min.js"></script>
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0/dist/js/bootstrap.bundle.min.js"></script>
     <script src="{{ asset('lib/wow/wow.min.js')}}"></script>

@@ -961,6 +961,8 @@
                             <div class="col-12">
                                 <textarea class="form-control border-0 bg-light px-4 py-3" rows="4" placeholder="Brief description about yourself" name="info" required></textarea>
                             </div>
+                             <!-- Cloudflare Turnstile Widget -->
+                             <div class="cf-turnstile" data-sitekey="{{ env('TURNSTILE_SITE_KEY') }}"></div>
                             <div class="col-12" style="align-content: center">
                                 <button class="btn btn-primary py-3" type="submit">Submit</button>
                             </div>
