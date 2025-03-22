@@ -45,7 +45,7 @@
             <div class="col-lg-8 text-center text-lg-start mb-2 mb-lg-0">
                 <div class="d-inline-flex align-items-center" style="height: 45px;">
                     <small class="me-3 text-light"><i class="fa fa-map-marker-alt me-2"></i>No. 175 Wilhelmstraße, 44388 Dortmund, Germany</small>
-                    <small class="me-3 text-light"><i class="fa fa-phone-alt me-2"></i>+4915212637254</small>
+                    <small class="me-3 text-light"><i class="fa fa-phone-alt me-2"></i>+2348130350663</small>
                     <small class="text-light"><i class="fa fa-envelope-open me-2"></i>info@alexoconsults.com</small>
                 </div>
             </div>
@@ -189,7 +189,7 @@
                     <div class="position-relative bg-primary rounded h-100 d-flex flex-column align-items-center justify-content-center text-center p-5">
                         <h3 class="text-white mb-3">Contact Us Today</h3>
                         <p class="text-white mb-3">Let us make your dream of working abroad a reality</p>
-                        <h2 class="text-white mb-0">+2348030350663, +4915212637254</h2>
+                        <h2 class="text-white mb-0">+2348030350663</h2>
                     </div>
                 </div>
             </div>
@@ -298,10 +298,7 @@
                                 <i class="bi bi-telephone text-primary me-2"></i>
                                 <p class="mb-0">+2348130350663</p>
                             </div>
-                            <div class="d-flex mb-2">
-                                <i class="bi bi-telephone text-primary me-2"></i>
-                                <p class="mb-0">+4915212637254</p>
-                            </div>
+                            
                             <div class="d-flex mt-4">
                                 <a class="btn btn-primary btn-square me-2" href="https://x.com/alexoconsults"><i class="fab fa-twitter fw-normal"></i></a>
                                 <a class="btn btn-primary btn-square me-2" href="https://web.facebook.com/profile.php?id=61561232475483"><i class="fab fa-facebook-f fw-normal"></i></a>

@@ -45,7 +45,7 @@
             <div class="col-lg-8 text-center text-lg-start mb-2 mb-lg-0">
                 <div class="d-inline-flex align-items-center" style="height: 45px;">
                     <small class="me-3 text-light"><i class="fa fa-map-marker-alt me-2"></i>No. 175 Wilhelmstraße, 44388 Dortmund, Germany</small>
-                    <small class="me-3 text-light"><i class="fa fa-phone-alt me-2"></i>+4915212637254</small>
+                    <small class="me-3 text-light"><i class="fa fa-phone-alt me-2"></i>+2348130350663</small>
                     <small class="text-light"><i class="fa fa-envelope-open me-2"></i>info@alexoconsults.com</small>
                 </div>
             </div>
@@ -142,14 +142,14 @@
                         </div>
                         <div class="ps-4">
                             <h5 class="mb-2">Call to ask any question</h5>
-                            <h4 class="text-primary mb-0">+4915212637254</h4>
+                            <h4 class="text-primary mb-0">+2348130350663</h4>
                         </div>
                     </div>
                     <a href="{{ url('/registration')}}" class="btn btn-primary py-3 px-5 mt-3 wow zoomIn" data-wow-delay="0.9s">Contact us today</a>
                 </div>
                 <div class="col-lg-5" style="min-height: 500px;">
                     <div class="position-relative h-100">
-                        <img class="position-absolute w-100 h-100 rounded wow zoomIn" data-wow-delay="0.9s" src="img/alexo12.jpg" style="object-fit: cover;">
+                        <img class="position-absolute w-100 h-100 rounded wow zoomIn" data-wow-delay="0.9s" src="img/alexo_board6.jpg" style="object-fit: cover;">
                     </div>
                 </div>
             </div>
@@ -226,10 +226,7 @@
                                 <i class="bi bi-telephone text-primary me-2"></i>
                                 <p class="mb-0">+2348130350663</p>
                             </div> 
-                            <div class="d-flex mb-2">
-                                <i class="bi bi-telephone text-primary me-2"></i>
-                                <p class="mb-0">+4915212637254</p>
-                            </div>
+                            
                             <div class="d-flex mt-4">
                                 <a class="btn btn-primary btn-square me-2" href="https://x.com/alexoconsults"><i class="fab fa-twitter fw-normal"></i></a>
                                 <a class="btn btn-primary btn-square me-2" href="https://web.facebook.com/profile.php?id=61561232475483"><i class="fab fa-facebook-f fw-normal"></i></a>

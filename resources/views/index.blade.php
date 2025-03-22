@@ -49,7 +49,7 @@
             <div class="col-lg-8 text-center text-lg-start mb-2 mb-lg-0">
                 <div class="d-inline-flex align-items-center" style="height: 45px;">
                     <small class="me-3 text-light"><i class="fa fa-map-marker-alt me-2"></i>No. 175 Wilhelmstraße, 44388 Dortmund, Germany</small>
-                    <small class="me-3 text-light"><i class="fa fa-phone-alt me-2"></i>+4915212637254</small>
+                    <small class="me-3 text-light"><i class="fa fa-phone-alt me-2"></i>+2348130350663</small>
                     <small class="text-light"><i class="fa fa-envelope-open me-2"></i>info@alexoconsults.com</small>
                 </div>
             </div>
@@ -91,7 +91,7 @@
         <div id="header-carousel" class="carousel slide carousel-fade" data-bs-ride="carousel">
             <div class="carousel-inner">
                 <div class="carousel-item active">
-                    <img class="w-100" src="img/carouselalexnew2.jpg" alt="Image">
+                    <img class="w-100" src="img/alexo_group1.jpg" alt="Image">
                     <div class="carousel-caption d-flex flex-column align-items-center justify-content-center">
                         <div class="p-3" style="max-width: 900px;">
                             <h5 class="text-white text-uppercase mb-3 animated slideInDown">​​​Connecting Talent to Careers</h5>
@@ -102,7 +102,7 @@
                     </div>
                 </div>
                 <div class="carousel-item">
-                    <img class="w-100" src="img/carouselalexlatest.jpg" alt="Image">
+                    <img class="w-100" src="img/alexo_group2.jpg" alt="Image">
                     <div class="carousel-caption d-flex flex-column align-items-center justify-content-center">
                         <div class="p-3" style="max-width: 900px;">
                             <h5 class="text-white text-uppercase mb-3 animated slideInDown">Unlocking Global Opportunities</h5>
@@ -215,14 +215,14 @@
                         </div>
                         <div class="ps-4">
                             <h5 class="mb-2">Call to ask any question</h5>
-                            <h4 class="text-primary mb-0">+4915212637254</h4>
+                            <h4 class="text-primary mb-0">+2348130350663</h4>
                         </div>
                     </div>
                     <a href="{{ url('/contact')}}" class="btn btn-primary py-3 px-5 mt-3 wow zoomIn" data-wow-delay="0.9s">Contact us today</a>
                 </div>
                 <div class="col-lg-5" style="min-height: 500px;">
                     <div class="position-relative h-100">
-                        <img class="position-absolute w-100 h-100 rounded wow zoomIn" data-wow-delay="0.9s" src="img/alexo8.jpg" alt="Our pride" style="object-fit: cover;">
+                        <img class="position-absolute w-100 h-100 rounded wow zoomIn" data-wow-delay="0.9s" src="img/alexo_single_man.jpg" alt="Our pride" style="object-fit: cover;">
                     </div>
                 </div>
             </div>
@@ -358,7 +358,7 @@
                     <div class="position-relative bg-primary rounded h-100 d-flex flex-column align-items-center justify-content-center text-center p-5">
                         <h3 class="text-white mb-3">Contact Us Today</h3>
                         <p class="text-white mb-3">Let us make your dream of working abroad a reality</p>
-                        <h2 class="text-white mb-0">+4915212637254</h2>
+                        <h2 class="text-white mb-0">+2348130350663</h2>
                     </div>
                 </div>
             </div>
@@ -391,7 +391,7 @@
                         </div>
                         <div class="ps-4">
                             <h5 class="mb-2">Call to ask any question</h5>
-                            <h4 class="text-primary mb-0">+4915212637254</h4>
+                            <h4 class="text-primary mb-0">+2348130350663</h4>
                         </div>
                     </div>
                 </div>
@@ -416,7 +416,7 @@
 
                                  <!-- Cloudflare Turnstile Widget -->
                                 <div class="cf-turnstile" data-sitekey="{{ env('TURNSTILE_SITE_KEY') }}"></div>
-                                
+
                                 <div class="col-12">
                                     <button class="btn btn-dark w-100 py-3" type="submit">Submit</button>
                                 </div>
@@ -431,7 +431,8 @@
 
 
     <!-- Testimonial Start -->
-    <div class="container-fluid py-5 wow fadeInUp" data-wow-delay="0.1s">
+
+    {{-- <div class="container-fluid py-5 wow fadeInUp" data-wow-delay="0.1s">
         <div class="container py-5">
             <div class="section-title text-center position-relative pb-3 mb-4 mx-auto" style="max-width: 600px;">
                 <h5 class="fw-bold text-primary text-uppercase">Testimonial</h5>
@@ -488,7 +489,7 @@
                 </div>
             </div>
         </div>
-    </div>
+    </div> --}}
     <!-- Testimonial End -->
 
 
@@ -598,10 +599,6 @@
                             <div class="d-flex mb-2">
                                 <i class="bi bi-telephone text-primary me-2"></i>
                                 <p class="mb-0">+2348130350663</p>
-                            </div>
-                            <div class="d-flex mb-2">
-                                <i class="bi bi-telephone text-primary me-2"></i>
-                                <p class="mb-0">+4915212637254</p>
                             </div>
                             <div class="d-flex mt-4">
                                 <a class="btn btn-primary btn-square me-2" href="https://x.com/alexoconsults"><i class="fab fa-twitter fw-normal"></i></a>
